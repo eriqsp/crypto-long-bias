@@ -1,0 +1,37 @@
+{
+  "window": 1,
+
+  "cryptos": ["BTC-USD", "SOL-USD", "ETH-USD"],
+  
+  "strat_profiles": ["buy_and_hold", "buy_every_week", "cash_allocation", "z_score"],
+
+  "cash_allocation":
+    {
+      "strat1": {
+        "initial_invest": 0.5,
+        "threshold": 0.05
+      },
+
+      "strat2": {
+        "initial_invest": 0.5,
+        "threshold": 0.1
+      },
+
+      "strat3": {
+        "initial_invest": 0.3,
+        "threshold": 0.05
+      }
+    },
+
+  "z_score": {
+    "strat1": {
+        "initial_invest": 0.5,
+        "threshold": 1
+      },
+
+      "strat2": {
+        "initial_invest": 0.5,
+        "threshold": 2
+      }
+  }
+}

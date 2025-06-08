@@ -1,0 +1,7 @@
+yfinance
+pandas
+scipy
+plotly
+dash
+dash-bootstrap-components
+python-dateutil
