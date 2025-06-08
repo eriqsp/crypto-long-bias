@@ -7,6 +7,7 @@ from argparse import ArgumentParser
 from datetime import timedelta, datetime
 
 
+# TODO: make the dashboard more interactive - choose window, cryptos, strategies
 # TODO: show parameters configurations on dashboard
 
 
