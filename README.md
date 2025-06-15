@@ -55,7 +55,7 @@ This project analyzes and compares different long-bias investment strategies for
 
 ## Example
 ![img.png](example_dash.png)
-* About the summary table on the left right:
+* About the table on the right:
   - PnL: cumulated performance
   - Vol: portfolio's realized volatility
   - Sharpe: sharpe ratio, computed as the average return over the volatility
