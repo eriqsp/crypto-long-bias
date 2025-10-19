@@ -37,7 +37,7 @@ This project analyzes and compares different long-bias investment strategies for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-long-bias.git
+   git clone https://github.com/eriqsp/crypto-long-bias.git
    cd crypto-long-bias
 2. Install dependencies
    ```bash
