@@ -60,6 +60,3 @@ This project analyzes and compares different long-bias investment strategies for
   - Vol: portfolio's realized volatility
   - Sharpe: sharpe ratio, computed as the average return over the volatility
   - MDD: maximum drawdown, the largest decline from its peak value to its trough value, before it recovers
-
-## Author
-Erick Silva
